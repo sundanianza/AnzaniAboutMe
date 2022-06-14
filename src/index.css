@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(218, 167, 102);
+    padding: 20px;
+    margin: 0;
+  }
+   h2, p, ul, li {
+    font-family: sans-serif;
+  }
+  #footer {  
+    position: relative;  
+     
+    width: 100%;  
+    background-color: black;  
+    color: white;  
+    text-align: center;  
+    height: 60px;
+    margin-top: 15px;;
+
+    } 
+   #foot {
+      text-align: center;  
+      color: white; 
+      margin-top: 15px;
+    }
+  h1 {
+    margin: 1em 0 0.5em 0;
+	font-weight: 600;
+  text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	position: relative;  
+	font-size: 36px;
+	line-height: 40px;
+	padding: 15px 15px 15px 15%;
+	color: rgb(148, 135, 135);
+	box-shadow: 
+		inset 0 0 0 1px rgba(53,86,129, 0.4), 
+		inset 0 0 5px rgba(53,86,129, 0.5),
+		inset -285px 0 35px white;
+	border-radius: 0 10px 0 10px;
+
+  }
+  p{
+    padding-right: 500px;
+  }
+  img {
+max-width: 20%;
+display: block;
+float: right;
+border-radius: 40%;
+margin-top: 4%;
+  }
+  img#oppo1 {
+    max-width: 30%;
+display: block;
+
+width: 50%;
+float: right;
+border-radius: 40%;
+margin-top: 6%;
+    
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color: #111;
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  .content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
